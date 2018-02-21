@@ -1,0 +1,5 @@
+HackerEarth's Predictiong Happiness
+Classify Text into:
+	a.) Happy
+	b.) Not Happy
+Word Vectorization Model Used: GloVe with Vector Length 100
